@@ -15,6 +15,12 @@ p {
 }
 ul {
   list-style: none;
+  color: rgba(7, 84, 107, 0.99);
+}
+table,
+th,
+td {
+  border: 1px solid black;
 }
 .nav-list {
   background-color: rgba(98, 159, 177, 0.99);
